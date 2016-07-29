@@ -4,7 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="description" content="Pure simple css div slider">
         <meta name="keywords" content="pure css slider, css div slider, pure css div slider">
-        <meta name="author" content="Dott. Anton Duoda">
+        <meta name="author" content="Quanton81">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css" type="text/css">
